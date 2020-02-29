@@ -30,7 +30,6 @@ function App() {
 
     const getIds = useCallback(async () => {
         try {
-            dispatch({ type: SET_IS_LOADING, isLoading: true });
             const fetchGroupId = await fetch(apiGroup);
             const { groupId } = await fetchGroupId.json();
             const fetchUserId = await fetch(apiUser);
