@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c8a8e3e-93d2-4f86-98e7-3c401416da99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/utils.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <updated>1582707739378</updated>
       <workItem from="1582707740637" duration="5499000" />
       <workItem from="1582818192208" duration="44171000" />
-      <workItem from="1582954905842" duration="268000" />
+      <workItem from="1582954905842" duration="438000" />
     </task>
     <task id="LOCAL-00001" summary="lodash fix">
       <created>1582955061833</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582955061833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="isLoading removed from App.tsx">
+      <created>1582955234636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582955234636</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lodash fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="lodash fix" />
+    <MESSAGE value="isLoading removed from App.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="isLoading removed from App.tsx" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582656268442">
@@ -102,10 +110,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582656395023" />
-    <state x="303" y="152" key="CommitChangelistDialog2" timestamp="1582955061658">
+    <state x="303" y="152" key="CommitChangelistDialog2" timestamp="1582955234501">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="152" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582955061658" />
+    <state x="303" y="152" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582955234501" />
     <state width="1419" height="224" key="GridCell.Tab.0.bottom" timestamp="1582921088489">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -126,18 +134,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="495" y="179" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582903145536" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582955064747">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1582955235997">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582955064747" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582955235997" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582918754293">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1582918754293" />
-    <state x="377" y="207" width="685" height="486" key="find.popup" timestamp="1582955193048">
+    <state x="377" y="207" width="685" height="486" key="find.popup" timestamp="1582955434056">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="377" y="207" width="685" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1582955193048" />
+    <state x="377" y="207" width="685" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1582955434056" />
     <state x="479" y="289" key="git4idea.ui.GitUnstashDialog" timestamp="1582871444577">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -34,8 +34,7 @@ export const updateData = async ({ data, type, actionType, dispatch, groupId, in
     const currentObj = { [type]: dataArr };
 
     const newData = {
-        pros: data.pros,
-        cons: data.cons,
+        ...data,
         ...currentObj,
     };
 
