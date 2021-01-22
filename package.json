@@ -1,5 +1,6 @@
 {
   "name": "pros-and-cons",
+  "homepage": "http://surohak.github.io/pros-and-cons",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,6 +48,7 @@
     "@types/redux": "^3.6.0",
     "@types/styled-components": "^5.0.0",
     "@types/uuid": "^7.0.0",
+    "gh-pages": "^3.1.0",
     "tslint": "^6.0.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-eslint-rules": "^5.4.0",
