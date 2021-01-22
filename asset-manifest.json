@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pros-and-cons/static/css/main.d37488b6.chunk.css",
+    "main.js": "/pros-and-cons/static/js/main.d2f576fd.chunk.js",
+    "main.js.map": "/pros-and-cons/static/js/main.d2f576fd.chunk.js.map",
+    "runtime-main.js": "/pros-and-cons/static/js/runtime-main.a7d91a29.js",
+    "runtime-main.js.map": "/pros-and-cons/static/js/runtime-main.a7d91a29.js.map",
+    "static/js/2.48f89aa6.chunk.js": "/pros-and-cons/static/js/2.48f89aa6.chunk.js",
+    "static/js/2.48f89aa6.chunk.js.map": "/pros-and-cons/static/js/2.48f89aa6.chunk.js.map",
+    "index.html": "/pros-and-cons/index.html",
+    "precache-manifest.d781ca6daf2e19c5d5a3cf330a2c61c9.js": "/pros-and-cons/precache-manifest.d781ca6daf2e19c5d5a3cf330a2c61c9.js",
+    "service-worker.js": "/pros-and-cons/service-worker.js",
+    "static/css/main.d37488b6.chunk.css.map": "/pros-and-cons/static/css/main.d37488b6.chunk.css.map",
+    "static/js/2.48f89aa6.chunk.js.LICENSE.txt": "/pros-and-cons/static/js/2.48f89aa6.chunk.js.LICENSE.txt",
+    "static/media/app_bg.webp": "/pros-and-cons/static/media/app_bg.2d0f4c99.webp",
+    "static/media/dark_icon.svg": "/pros-and-cons/static/media/dark_icon.25e91ac6.svg",
+    "static/media/light_icon.svg": "/pros-and-cons/static/media/light_icon.fe4053b9.svg",
+    "static/media/loading.svg": "/pros-and-cons/static/media/loading.3bc195ee.svg",
+    "static/media/minus.svg": "/pros-and-cons/static/media/minus.8135ce9d.svg",
+    "static/media/plus.svg": "/pros-and-cons/static/media/plus.65ccc6cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7d91a29.js",
+    "static/js/2.48f89aa6.chunk.js",
+    "static/css/main.d37488b6.chunk.css",
+    "static/js/main.d2f576fd.chunk.js"
+  ]
+}
